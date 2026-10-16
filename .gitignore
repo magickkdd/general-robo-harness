@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+.env
+.venv/
+
+# run artefacts go to the workspace, not the repo
+runs/
+reports/
+.pytest_cache/
